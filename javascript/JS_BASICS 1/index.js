@@ -1,4 +1,4 @@
-/*
+
 console.log('helllllo');
 
 
@@ -54,7 +54,7 @@ sqrObject.color = 'yellow';
 console.log(sqrObject);
 
 console.log(createRectangle.constructor);
-*/
+
 
 let square = {
     side: 2,
